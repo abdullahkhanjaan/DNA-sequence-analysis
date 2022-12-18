@@ -1,0 +1,1903 @@
+Sequence 0 : AGTGGCCATACAGGTCGATTAAGGCCAT
+length of sequence = 28
+Motif 0 : AA : 1
+Motif 1 : GA : 1
+Motif 2 : CG : 1
+Motif 3 : TT : 1
+Motif 4 : GT : 2
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 1 : TCTCCGACGAAGACGGTGCTTGTGGTGGACTTTCCGTACAG
+length of sequence = 41
+Motif 0 : AA : 1
+Motif 1 : GA : 4
+Motif 2 : CG : 4
+Motif 3 : TT : 2
+Motif 4 : GT : 4
+Motif 5 : TAC : 1
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 2 : ACGTAACGGAAAAGAAGATGCTAGCACTAATAAGGGAAAGCG
+length of sequence = 42
+Motif 0 : AA : 7
+Motif 1 : GA : 4
+Motif 2 : CG : 3
+Motif 3 : TT : 0
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 3 : CATATATGCCATCAATTCGTAATAGACGATGATACAGCCAGATCCATGACC
+length of sequence = 51
+Motif 0 : AA : 2
+Motif 1 : GA : 5
+Motif 2 : CG : 2
+Motif 3 : TT : 1
+Motif 4 : GT : 1
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 4 : GTCTTGTCTTAGTTCAGGGACTAGCATCATCAGAGAGCTTTCGGGTGCAAGCGAA
+length of sequence = 55
+Motif 0 : AA : 2
+Motif 1 : GA : 4
+Motif 2 : CG : 2
+Motif 3 : TT : 4
+Motif 4 : GT : 4
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 1
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 5 : CTATATTATTTCTGCCTACGAAATAAC
+length of sequence = 27
+Motif 0 : AA : 2
+Motif 1 : GA : 1
+Motif 2 : CG : 1
+Motif 3 : TT : 2
+Motif 4 : GT : 0
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 6 : ATCGATTCGTGAGCGTTAAATCATGGACG
+length of sequence = 29
+Motif 0 : AA : 1
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 7 : GGACGTGCGTCTCAAGTTACGATCCAGTTCAGGGACGCT
+length of sequence = 39
+Motif 0 : AA : 1
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 2
+Motif 4 : GT : 4
+Motif 5 : TAC : 1
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 8 : TGTATCACGAATTAAGTTTGGAACAA
+length of sequence = 26
+Motif 0 : AA : 4
+Motif 1 : GA : 2
+Motif 2 : CG : 1
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 9 : AGCTCCCACCTGGTGTTAATATCA
+length of sequence = 24
+Motif 0 : AA : 1
+Motif 1 : GA : 0
+Motif 2 : CG : 0
+Motif 3 : TT : 1
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 10 : TAGCTTGCATGACTCTAAATCCGTGGTATAATACTCGACCGCTAATCCATAATTAGACTTCT
+length of sequence = 62
+Motif 0 : AA : 4
+Motif 1 : GA : 3
+Motif 2 : CG : 3
+Motif 3 : TT : 3
+Motif 4 : GT : 2
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 11 : ACCCGTCGGGGAGATAAGCGCTAACGAGGCTGCCAT
+length of sequence = 36
+Motif 0 : AA : 2
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 0
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 12 : AAGAGGAAGGGGGATCTATCAATCTACATGCCTTTATCCT
+length of sequence = 40
+Motif 0 : AA : 3
+Motif 1 : GA : 3
+Motif 2 : CG : 0
+Motif 3 : TT : 1
+Motif 4 : GT : 0
+Motif 5 : TAC : 1
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 13 : TTTTGACAAAAGGCTGTCTCCATT
+length of sequence = 24
+Motif 0 : AA : 2
+Motif 1 : GA : 1
+Motif 2 : CG : 0
+Motif 3 : TT : 3
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 14 : CGGGCGGTTCTCGCGGTAGCGCAGTTCTT
+length of sequence = 29
+Motif 0 : AA : 0
+Motif 1 : GA : 0
+Motif 2 : CG : 5
+Motif 3 : TT : 3
+Motif 4 : GT : 3
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 15 : TCTATTACTGGGGCGGAGATAAA
+length of sequence = 23
+Motif 0 : AA : 1
+Motif 1 : GA : 2
+Motif 2 : CG : 1
+Motif 3 : TT : 1
+Motif 4 : GT : 0
+Motif 5 : TAC : 1
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 16 : CCAGGGAGTATCGTATTTTATGGGC
+length of sequence = 25
+Motif 0 : AA : 0
+Motif 1 : GA : 1
+Motif 2 : CG : 1
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 17 : CCTGTGGACGCTACAGCGGTCTCTAACTTGAGCTATACGCGACCGTGGAAGGCGCCTTGCGC
+length of sequence = 62
+Motif 0 : AA : 2
+Motif 1 : GA : 4
+Motif 2 : CG : 7
+Motif 3 : TT : 2
+Motif 4 : GT : 3
+Motif 5 : TAC : 2
+Motif 6 : GGA : 2
+Motif 7 : CTG : 1
+Motif 8 : TAC : 2
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 1
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 18 : GATGTTGGCCCATAGTCTCAGTCAAGTTTCGCCCTTGCCT
+length of sequence = 40
+Motif 0 : AA : 1
+Motif 1 : GA : 1
+Motif 2 : CG : 1
+Motif 3 : TT : 3
+Motif 4 : GT : 4
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 1
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 19 : TAGAAGGACTATGTTACGAGCTCGTTAGTCATGCTACCCGACAGAACAAGGAGCAGTACTAGGCCGAC
+length of sequence = 68
+Motif 0 : AA : 3
+Motif 1 : GA : 7
+Motif 2 : CG : 4
+Motif 3 : TT : 2
+Motif 4 : GT : 4
+Motif 5 : TAC : 3
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 3
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 1
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 1
+=================================================================================================
+Sequence 20 : AGCCACCACCCCCGAGTAACCAAGTCTGACATTTATAAACTCCACCTTGTTGATA
+length of sequence = 55
+Motif 0 : AA : 3
+Motif 1 : GA : 3
+Motif 2 : CG : 1
+Motif 3 : TT : 3
+Motif 4 : GT : 3
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 21 : TAAAGGCTTAAGCCATTCAAAGATCTAAAGGCTTGTGGCG
+length of sequence = 40
+Motif 0 : AA : 4
+Motif 1 : GA : 1
+Motif 2 : CG : 1
+Motif 3 : TT : 3
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 22 : AATCAGAAACGAGTCGCTTCGCAAA
+length of sequence = 25
+Motif 0 : AA : 3
+Motif 1 : GA : 2
+Motif 2 : CG : 3
+Motif 3 : TT : 1
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 23 : AGGCTCCTATCAGGGTCATTGATTCATAGCACCTGCCA
+length of sequence = 38
+Motif 0 : AA : 0
+Motif 1 : GA : 1
+Motif 2 : CG : 0
+Motif 3 : TT : 2
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 24 : ATCTAAAGCTAGAGGACCCGGATCTGGTTGGTCTCTCTCTCCTTTGCAATTGATCACAAATTATC
+length of sequence = 65
+Motif 0 : AA : 3
+Motif 1 : GA : 4
+Motif 2 : CG : 1
+Motif 3 : TT : 4
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 2
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 1
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 25 : AAAAATCCAGCTGAACATGACTTACGTTGTAAGCATA
+length of sequence = 37
+Motif 0 : AA : 4
+Motif 1 : GA : 2
+Motif 2 : CG : 1
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 1
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 26 : TTTTTATCTCTGTTCGATTGTTTCGCCAGGTGGGAATATAAGAGTCGCTTCGTCGGA
+length of sequence = 57
+Motif 0 : AA : 2
+Motif 1 : GA : 4
+Motif 2 : CG : 5
+Motif 3 : TT : 6
+Motif 4 : GT : 5
+Motif 5 : TAC : 0
+Motif 6 : GGA : 2
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 27 : AATAATGGCGCTAGCAGTCATTTGATCTAGGCCCTTGTTAAAT
+length of sequence = 43
+Motif 0 : AA : 3
+Motif 1 : GA : 1
+Motif 2 : CG : 1
+Motif 3 : TT : 3
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 1
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 28 : CATGGCGCGCCAAGCGCAGTCATTGACCGCACATCTATAAAGGTTTCACCGGCAATCATCGCTG
+length of sequence = 64
+Motif 0 : AA : 3
+Motif 1 : GA : 1
+Motif 2 : CG : 6
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 29 : GCGCCTCGTTTTGTTGCGGTGCATTCGACTAAAAAGATG
+length of sequence = 39
+Motif 0 : AA : 2
+Motif 1 : GA : 2
+Motif 2 : CG : 4
+Motif 3 : TT : 4
+Motif 4 : GT : 3
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 30 : GGTCTTCTAGCTTTGTGTGGATGCTTCGCCTTGGTTTATTCATTTTCA
+length of sequence = 48
+Motif 0 : AA : 0
+Motif 1 : GA : 1
+Motif 2 : CG : 1
+Motif 3 : TT : 8
+Motif 4 : GT : 4
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 31 : CTGACCGCGCTTTGCAGAGGCGGGGGGCTCAAAGCACTGACTAGAGCATTAGCTGCCTCACATAGAG
+length of sequence = 67
+Motif 0 : AA : 1
+Motif 1 : GA : 5
+Motif 2 : CG : 3
+Motif 3 : TT : 2
+Motif 4 : GT : 0
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 3
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 32 : ACGTGATTGGACAACGGGGGCCCGGAAGCC
+length of sequence = 30
+Motif 0 : AA : 2
+Motif 1 : GA : 3
+Motif 2 : CG : 3
+Motif 3 : TT : 1
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 33 : GAAGTGCAACATGTTACAGTGACACATTGTCTAGGGCCTCCAGC
+length of sequence = 44
+Motif 0 : AA : 2
+Motif 1 : GA : 2
+Motif 2 : CG : 0
+Motif 3 : TT : 2
+Motif 4 : GT : 4
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 34 : TCGAAACCGTGGTGAAAGAATGAGCCACTTCAAATGGGGGAGAAC
+length of sequence = 45
+Motif 0 : AA : 5
+Motif 1 : GA : 6
+Motif 2 : CG : 2
+Motif 3 : TT : 1
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 35 : TATAATTGGCGCATCGCCATCTGAACGCCGCCTTATCACAGTAGATCTTAACTTCGACT
+length of sequence = 59
+Motif 0 : AA : 3
+Motif 1 : GA : 3
+Motif 2 : CG : 5
+Motif 3 : TT : 4
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 1
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 36 : AGGTCCACACGACTAGCAGACTCGAAGGATTGTATAGCTGC
+length of sequence = 41
+Motif 0 : AA : 1
+Motif 1 : GA : 4
+Motif 2 : CG : 2
+Motif 3 : TT : 1
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 37 : ATCCCAAGGAAAACTGTTAGCGCCCGTTGGATCCAGTCCCCGCT
+length of sequence = 44
+Motif 0 : AA : 3
+Motif 1 : GA : 2
+Motif 2 : CG : 3
+Motif 3 : TT : 2
+Motif 4 : GT : 3
+Motif 5 : TAC : 0
+Motif 6 : GGA : 2
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 38 : CCTCTCATGGTAAATGACGTGCTGGCGACAGACCCGCG
+length of sequence = 38
+Motif 0 : AA : 1
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 0
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 39 : TAATCCTCCTGTTATATCAACTAAACGCCGC
+length of sequence = 31
+Motif 0 : AA : 3
+Motif 1 : GA : 0
+Motif 2 : CG : 2
+Motif 3 : TT : 1
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 40 : CATTAAATTGCGATAAAATCAGCATACGGTTTGATT
+length of sequence = 36
+Motif 0 : AA : 3
+Motif 1 : GA : 2
+Motif 2 : CG : 2
+Motif 3 : TT : 4
+Motif 4 : GT : 1
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 41 : TCAGATATAAGATCCAGGGCCTCAGCCTCGCCTTACAATAA
+length of sequence = 41
+Motif 0 : AA : 3
+Motif 1 : GA : 2
+Motif 2 : CG : 1
+Motif 3 : TT : 1
+Motif 4 : GT : 0
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 42 : GGCTAAAGTCTGGTGTTTGGGGCTTTCCGCGAGAACCTTGCCAGGCCTAGGGAAACAGGGTTAG
+length of sequence = 64
+Motif 0 : AA : 3
+Motif 1 : GA : 3
+Motif 2 : CG : 2
+Motif 3 : TT : 4
+Motif 4 : GT : 4
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 43 : TCTAGCTACAACCTCCACTCGTGTGCGCAATAGGATTGGTACTCTTTCTTAGGATT
+length of sequence = 56
+Motif 0 : AA : 2
+Motif 1 : GA : 2
+Motif 2 : CG : 2
+Motif 3 : TT : 4
+Motif 4 : GT : 3
+Motif 5 : TAC : 2
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 2
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 44 : TCCATGTATTGGTCTGCCTTGGGGAAGATATATCA
+length of sequence = 35
+Motif 0 : AA : 1
+Motif 1 : GA : 2
+Motif 2 : CG : 0
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 45 : TGTCTGTTTTTTGTCCTGCACTATTCCTTTCAA
+length of sequence = 33
+Motif 0 : AA : 1
+Motif 1 : GA : 0
+Motif 2 : CG : 0
+Motif 3 : TT : 5
+Motif 4 : GT : 3
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 2
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 46 : TGTCGCGAACACTTAGAGACTCGATCACCTAGAGGTTGTTAGACGTATCTT
+length of sequence = 51
+Motif 0 : AA : 1
+Motif 1 : GA : 6
+Motif 2 : CG : 4
+Motif 3 : TT : 4
+Motif 4 : GT : 4
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 47 : CCCTTGAGTATGTACAGCGTCAGAGTCTAAATCCCAGTAACACTTCATCGAACGCATGTCTATATCGTGC
+length of sequence = 70
+Motif 0 : AA : 3
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 2
+Motif 4 : GT : 7
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 48 : ATTATAAAGACATAGGTCTGGCA
+length of sequence = 23
+Motif 0 : AA : 1
+Motif 1 : GA : 1
+Motif 2 : CG : 0
+Motif 3 : TT : 1
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 49 : TTGATAGAAAGATGATTTTTCACCGCGTAAGGGC
+length of sequence = 34
+Motif 0 : AA : 2
+Motif 1 : GA : 4
+Motif 2 : CG : 2
+Motif 3 : TT : 3
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 50 : TCACGAACGCGAGCATGACGTGGTCAATGCACACCTTC
+length of sequence = 38
+Motif 0 : AA : 2
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 1
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 51 : CTATGTGACAGGCTTTCGTTTACCCGAAATTCCTTTTTACGCTTCT
+length of sequence = 46
+Motif 0 : AA : 1
+Motif 1 : GA : 2
+Motif 2 : CG : 3
+Motif 3 : TT : 6
+Motif 4 : GT : 2
+Motif 5 : TAC : 2
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 2
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 52 : GTGTCAATAACGCCGTCTCAGCGTTTATATGGGAATA
+length of sequence = 37
+Motif 0 : AA : 3
+Motif 1 : GA : 1
+Motif 2 : CG : 3
+Motif 3 : TT : 1
+Motif 4 : GT : 4
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 53 : CTCGGGACATCGAATGCTAACGTATAGAGCGTTTTGTCGTAATCAGCTATAAGTGCAACGTAGCCCGA
+length of sequence = 68
+Motif 0 : AA : 5
+Motif 1 : GA : 4
+Motif 2 : CG : 7
+Motif 3 : TT : 2
+Motif 4 : GT : 6
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 54 : AGGGATTGCTGGTACCGGCAAGTATCCATCGTGCACTATTAAGTATGCGGCGGGTCTCGCAGAGTAC
+length of sequence = 67
+Motif 0 : AA : 2
+Motif 1 : GA : 2
+Motif 2 : CG : 5
+Motif 3 : TT : 2
+Motif 4 : GT : 6
+Motif 5 : TAC : 2
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 2
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 55 : ACACTCCATGAGGAAATTCATTGTGGCTCGCTACTTGCCGCCACTCACGGATTCCGC
+length of sequence = 57
+Motif 0 : AA : 1
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 4
+Motif 4 : GT : 1
+Motif 5 : TAC : 1
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 56 : GGTCGCGGCAAGGAGGGCTAATAATGGACGCGGATCATAACTAGCATGTTACTTATG
+length of sequence = 57
+Motif 0 : AA : 4
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 1
+Motif 6 : GGA : 3
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 57 : GTAGGAGAGTGAGTAGACTATGGGGCGTCTTAGGACAGGTTGGT
+length of sequence = 44
+Motif 0 : AA : 0
+Motif 1 : GA : 5
+Motif 2 : CG : 1
+Motif 3 : TT : 2
+Motif 4 : GT : 6
+Motif 5 : TAC : 0
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 58 : ACTTCGTCCAGTTGCCCAAGAGTTCCCACTCACCATGCTAGG
+length of sequence = 42
+Motif 0 : AA : 1
+Motif 1 : GA : 1
+Motif 2 : CG : 1
+Motif 3 : TT : 3
+Motif 4 : GT : 3
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 59 : GCCAGTCAAGCTGCGGGTTGATAGTGTGCAACACTTAGGAGATCACC
+length of sequence = 47
+Motif 0 : AA : 2
+Motif 1 : GA : 3
+Motif 2 : CG : 1
+Motif 3 : TT : 2
+Motif 4 : GT : 4
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 1
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 60 : TTCCCGTGGCTCACACGGCTGAACTATGTTACTGGCTAGG
+length of sequence = 40
+Motif 0 : AA : 1
+Motif 1 : GA : 1
+Motif 2 : CG : 2
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 2
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 61 : CTCCGCGGGCCTGCATCAGACTTGAAATCGTGGCGACGATAACCAGCGAG
+length of sequence = 50
+Motif 0 : AA : 2
+Motif 1 : GA : 5
+Motif 2 : CG : 6
+Motif 3 : TT : 1
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 62 : GTCCACCTAACCTTGGCAATCTACTCGCTCGGTGGTGATGGGGTGTAGATC
+length of sequence = 51
+Motif 0 : AA : 2
+Motif 1 : GA : 2
+Motif 2 : CG : 2
+Motif 3 : TT : 1
+Motif 4 : GT : 5
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 63 : CATCCTTTGACTCAACGTGAAA
+length of sequence = 22
+Motif 0 : AA : 2
+Motif 1 : GA : 2
+Motif 2 : CG : 1
+Motif 3 : TT : 1
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 64 : CCGCTTCCCGGATTCTGGTTTTGACTTATGGCGTCCGCCTCTTAATGTGAACAGTTAGGT
+length of sequence = 60
+Motif 0 : AA : 2
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 7
+Motif 4 : GT : 5
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 65 : ATAAATGATGATTTGGTGACGTTATCTATACACTCAATCGCTACGTCCTGACGGCGTGCGA
+length of sequence = 61
+Motif 0 : AA : 2
+Motif 1 : GA : 5
+Motif 2 : CG : 6
+Motif 3 : TT : 2
+Motif 4 : GT : 4
+Motif 5 : TAC : 2
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 2
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 66 : AACGGCGAGTCCGGGTTAGTCCAGTGC
+length of sequence = 27
+Motif 0 : AA : 1
+Motif 1 : GA : 1
+Motif 2 : CG : 3
+Motif 3 : TT : 1
+Motif 4 : GT : 4
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 1
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 67 : TTGGATGCCGGTGTTGCCGGACACAGTCAGGTTCCGGTGCAACTTAATAACCCTTCCTCACGTCGCGA
+length of sequence = 68
+Motif 0 : AA : 3
+Motif 1 : GA : 3
+Motif 2 : CG : 6
+Motif 3 : TT : 5
+Motif 4 : GT : 6
+Motif 5 : TAC : 0
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 68 : CACCCCGACTCTCAGCGGCCTG
+length of sequence = 22
+Motif 0 : AA : 0
+Motif 1 : GA : 1
+Motif 2 : CG : 2
+Motif 3 : TT : 0
+Motif 4 : GT : 0
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 69 : GCTTCCGGCGGCAGGACTGCTCTATTTTGCTCCGGCTTCAGAATTGCTGCCAACGATTTGGTAGGC
+length of sequence = 66
+Motif 0 : AA : 2
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 6
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 2
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 70 : GTGCAATCGAGCCTCAACGCTAAACTAACACGCATCCAACCA
+length of sequence = 42
+Motif 0 : AA : 5
+Motif 1 : GA : 1
+Motif 2 : CG : 3
+Motif 3 : TT : 0
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 71 : TTAAGGTAATAGTTACCTTATCTTCTGATCTGCCCAGGGGCCAGACATCATGGTGAAAGTTAAGTG
+length of sequence = 66
+Motif 0 : AA : 4
+Motif 1 : GA : 3
+Motif 2 : CG : 0
+Motif 3 : TT : 5
+Motif 4 : GT : 5
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 2
+Motif 8 : TAC : 1
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 1
+Motif 11 : TGATC : 1
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 72 : CAATCAGTCTTTTCCCGGGATACGGGCACCCAAAATAGTGGAGTAGCATT
+length of sequence = 50
+Motif 0 : AA : 3
+Motif 1 : GA : 2
+Motif 2 : CG : 2
+Motif 3 : TT : 3
+Motif 4 : GT : 3
+Motif 5 : TAC : 1
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 1
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 1
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 73 : TGAGGACTGCGGAGCGGAAATTGCCGGCGGCTAACGTAACC
+length of sequence = 41
+Motif 0 : AA : 3
+Motif 1 : GA : 4
+Motif 2 : CG : 5
+Motif 3 : TT : 1
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 3
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 74 : CTCCGCATAGAAGTGGAATGGTCTGCCCATCGGCTAACGGTCGAGACA
+length of sequence = 48
+Motif 0 : AA : 3
+Motif 1 : GA : 4
+Motif 2 : CG : 4
+Motif 3 : TT : 0
+Motif 4 : GT : 3
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 75 : GAGGCACCCCAAACGAAGCCAGGGATTGACGTACCCGTAGCCCC
+length of sequence = 44
+Motif 0 : AA : 2
+Motif 1 : GA : 4
+Motif 2 : CG : 3
+Motif 3 : TT : 1
+Motif 4 : GT : 2
+Motif 5 : TAC : 1
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 76 : AAATGAAAGCATCTTCACACCGGGCGTAAGCATAG
+length of sequence = 35
+Motif 0 : AA : 3
+Motif 1 : GA : 1
+Motif 2 : CG : 2
+Motif 3 : TT : 1
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 77 : TCGTTATGCTCGGAGAGACTGAGGTTTCCGGTGTCATTGTTCGACAGCGTGCCTG
+length of sequence = 55
+Motif 0 : AA : 0
+Motif 1 : GA : 5
+Motif 2 : CG : 5
+Motif 3 : TT : 4
+Motif 4 : GT : 6
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 2
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 78 : GACGGCCTTATTGTAGCAATTTCTGACAAACCGTATGCACGTGAGTAGAACCGGATCCGCTCACGTGA
+length of sequence = 68
+Motif 0 : AA : 3
+Motif 1 : GA : 6
+Motif 2 : CG : 6
+Motif 3 : TT : 3
+Motif 4 : GT : 5
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 79 : GTTGCATCAGTTTATATATCCGGGGACAGCAGATCTGCAT
+length of sequence = 40
+Motif 0 : AA : 0
+Motif 1 : GA : 2
+Motif 2 : CG : 1
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 80 : GGCCCATGCCGGGGCCTCTGGCTCCCAGTGGGAA
+length of sequence = 34
+Motif 0 : AA : 1
+Motif 1 : GA : 1
+Motif 2 : CG : 1
+Motif 3 : TT : 0
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 81 : CGAATAAGAGGGACAATCTTGAAGTACCCGTTATACCATGAGGACATG
+length of sequence = 48
+Motif 0 : AA : 4
+Motif 1 : GA : 6
+Motif 2 : CG : 2
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 2
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 2
+Motif 9 : CATG : 2
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 82 : GTCCCGGGACCCTCACCTACGACACCGGGTCGAGCCATTGGGCATTTGCA
+length of sequence = 50
+Motif 0 : AA : 0
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 1
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 83 : CGATCAGGTACGCCTTTGCCGTGG
+length of sequence = 24
+Motif 0 : AA : 0
+Motif 1 : GA : 1
+Motif 2 : CG : 3
+Motif 3 : TT : 1
+Motif 4 : GT : 2
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 84 : GACTTGAACTTAGACCCGTCCACAAAAGAGCAATCAACGA
+length of sequence = 40
+Motif 0 : AA : 5
+Motif 1 : GA : 5
+Motif 2 : CG : 2
+Motif 3 : TT : 2
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 85 : CGAGCAGCAGATGACTACCCA
+length of sequence = 21
+Motif 0 : AA : 0
+Motif 1 : GA : 3
+Motif 2 : CG : 1
+Motif 3 : TT : 0
+Motif 4 : GT : 0
+Motif 5 : TAC : 1
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 86 : CCTTTGCCTGAGGCGCCGGCAGGGGGACGAGAGCTATTC
+length of sequence = 39
+Motif 0 : AA : 0
+Motif 1 : GA : 4
+Motif 2 : CG : 3
+Motif 3 : TT : 2
+Motif 4 : GT : 0
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 87 : TGTCCGGCCTCACTGTCAGTATAACTAGTAGTT
+length of sequence = 33
+Motif 0 : AA : 1
+Motif 1 : GA : 0
+Motif 2 : CG : 1
+Motif 3 : TT : 1
+Motif 4 : GT : 5
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 1
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 88 : AAGAAACTTGTCGGTTTTTGGCTCTCTCATATAAGCTGAACC
+length of sequence = 42
+Motif 0 : AA : 4
+Motif 1 : GA : 2
+Motif 2 : CG : 1
+Motif 3 : TT : 3
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 89 : ACTAGCAGAATGGACATCAAG
+length of sequence = 21
+Motif 0 : AA : 2
+Motif 1 : GA : 2
+Motif 2 : CG : 0
+Motif 3 : TT : 0
+Motif 4 : GT : 0
+Motif 5 : TAC : 0
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 90 : TACTCAACGTGCTTTACCGGGCGGTAGGATATACC
+length of sequence = 35
+Motif 0 : AA : 1
+Motif 1 : GA : 1
+Motif 2 : CG : 3
+Motif 3 : TT : 1
+Motif 4 : GT : 2
+Motif 5 : TAC : 3
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 3
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 91 : CCTTCTTTCAGTCCATCAACCTTGGGACTTACAGCGGGGCGGG
+length of sequence = 43
+Motif 0 : AA : 1
+Motif 1 : GA : 1
+Motif 2 : CG : 2
+Motif 3 : TT : 4
+Motif 4 : GT : 1
+Motif 5 : TAC : 1
+Motif 6 : GGA : 1
+Motif 7 : CTG : 0
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 92 : AACTATAAACACCCCGCCCTTGAAACC
+length of sequence = 27
+Motif 0 : AA : 3
+Motif 1 : GA : 1
+Motif 2 : CG : 1
+Motif 3 : TT : 1
+Motif 4 : GT : 0
+Motif 5 : TAC : 0
+Motif 6 : GGA : 0
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 93 : GCTGCCACGGAGCCTGTTCAAACGGCTGGATCCTC
+length of sequence = 35
+Motif 0 : AA : 1
+Motif 1 : GA : 2
+Motif 2 : CG : 2
+Motif 3 : TT : 1
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 2
+Motif 7 : CTG : 3
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 94 : ACCTCTGCTAAGGACTGACTGCCCGTTGTTGAGCTGGATTTGCGACCTCACCAGCGAGATTG
+length of sequence = 62
+Motif 0 : AA : 1
+Motif 1 : GA : 7
+Motif 2 : CG : 3
+Motif 3 : TT : 4
+Motif 4 : GT : 2
+Motif 5 : TAC : 0
+Motif 6 : GGA : 2
+Motif 7 : CTG : 4
+Motif 8 : TAC : 0
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 95 : GTTTTTCTACCGATCATCTACGGGATCCTATGCAGCTCAACAAGCGGGGTCGAAATCATGCCTG
+length of sequence = 64
+Motif 0 : AA : 3
+Motif 1 : GA : 3
+Motif 2 : CG : 4
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 2
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 2
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 96 : TACAGATGCCTGCTACACCCCCGAGCAGTTGAAACGGTGCGAACCTTACACGGA
+length of sequence = 54
+Motif 0 : AA : 2
+Motif 1 : GA : 5
+Motif 2 : CG : 4
+Motif 3 : TT : 2
+Motif 4 : GT : 2
+Motif 5 : TAC : 3
+Motif 6 : GGA : 1
+Motif 7 : CTG : 1
+Motif 8 : TAC : 3
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 97 : ATTACTAAACTTTTGCGATACACTACCGCCCTGGCAAGGGGG
+length of sequence = 42
+Motif 0 : AA : 2
+Motif 1 : GA : 1
+Motif 2 : CG : 2
+Motif 3 : TT : 3
+Motif 4 : GT : 0
+Motif 5 : TAC : 3
+Motif 6 : GGA : 0
+Motif 7 : CTG : 1
+Motif 8 : TAC : 3
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 98 : GGATGGGTACCATTTTTAACTTGTTCACCAAACCACTTTCTGAGCCCCGACATTGTTAACCTGCCA
+length of sequence = 66
+Motif 0 : AA : 3
+Motif 1 : GA : 3
+Motif 2 : CG : 1
+Motif 3 : TT : 7
+Motif 4 : GT : 3
+Motif 5 : TAC : 1
+Motif 6 : GGA : 1
+Motif 7 : CTG : 2
+Motif 8 : TAC : 1
+Motif 9 : CATG : 0
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 2
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 0
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+Sequence 99 : ACCCGCCCGGGGGATTGCGCTCGACAACACCATGCAAATAGGAATGTTTCGACACGG
+length of sequence = 57
+Motif 0 : AA : 3
+Motif 1 : GA : 4
+Motif 2 : CG : 6
+Motif 3 : TT : 2
+Motif 4 : GT : 1
+Motif 5 : TAC : 0
+Motif 6 : GGA : 2
+Motif 7 : CTG : 0
+Motif 8 : TAC : 0
+Motif 9 : CATG : 1
+Motif 10 : TAGT : 0
+Motif 11 : TGATC : 0
+Motif 12 : TTAAC : 0
+Motif 13 : GATACG : 0
+Motif 14 : TTGCGC : 1
+Motif 15 : AGGCCGAC : 0
+=================================================================================================
+MAximun frequency of 267 for motif (s) AA 
+MAximun frequency of 0 for motif (s) AA 
+Execution time: 1.0695891380310059 millisecondsExecution time: 1.019890308380127 millisecondsExecution time: 0.8986620903015137 millisecondsExecution time: 1.1632003784179688 milliseconds
